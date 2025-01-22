@@ -1,7 +1,7 @@
 name: Feature Suggestion Improvement  
 description: File a suggestion or requirement for improvement  
 title: "[Feature]: <title>"  
-labels: ["question", "enhancement"]  
+labels: ["question"]  
 projects: ["helixbox/1"]  
 assignees:  
   - windatang  
