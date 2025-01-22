@@ -1,0 +1,21 @@
+name: Feature Suggestion Improvement  
+description: File a suggestion or requirement for improvement  
+title: "[Feature]: <title>"  
+labels: ["question", "enhancement"]  
+projects: ["helixbox/1"]  
+assignees:  
+  - windatang  
+body:  
+- type: textarea  
+  attributes:  
+    label: Proposed Enhancement  
+    description: A concise description of your proposed enhancement and its benefits.  
+  validations:  
+    required: true  
+- type: textarea  
+  attributes:  
+    label: Anything else?  
+    description: |  
+      Links? References? Examples? Anything that will give us more context about your suggestion!  
+  validations:  
+    required: false
