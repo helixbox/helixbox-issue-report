@@ -38,7 +38,6 @@ body:
     required: false  
 - type: dropdown  
   attributes:  
-    id: browsers  
     label: What browsers are you seeing the problem on?  
     multiple: true  
     options:  
