@@ -4,7 +4,7 @@ title: "[BUG]: <title>"
 labels: ["bug"]
 projects: ["helixbox/1"]
 assignees:
-  - @windatang
+  - windatang
 body:
 - type: checkboxes
   attributes:
