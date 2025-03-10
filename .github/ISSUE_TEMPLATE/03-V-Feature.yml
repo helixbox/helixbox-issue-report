@@ -1,6 +1,6 @@
 name: New feature
 description: Suggest an enhancement or new feature  
-title: "[V2]: <title>"  
+title: "[V3]: <title>"  
 labels: ["enhancement"]  
 projects: ["helixbox/1"]  
 assignees:  
